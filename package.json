@@ -1,7 +1,7 @@
 {
   "name": "fashion",
   "version": "1.0.0",
-  "description": "",
+  "description": "ive selling show platform, allowing for inventory management and live sales updates",
   "main": "app.ts",
   "scripts": {
     "dev": "nodemon src/server.ts",
@@ -14,7 +14,8 @@
     "npm": "8.*"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nwoko Lawrence Ndubuexe",
+  "repository": "https://github.com/talktothelaw/fashion",
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^21.3.2",
